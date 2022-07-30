@@ -16,7 +16,7 @@
 11. [驱动开发](./doc/12.驱动开发.md)
 12. [Linux驱动硬件工作.md](./doc/13.Linux驱动硬件工作.md)
 13. [Linux设备树开发.md](./doc/14.Linux设备树开发.md)
-14. [pinctrl 和 gpio 子系统简化 GPIO 驱动开发](./doc/15.pinctrl 子系统.md)
+14. [pinctrl 和 gpio 子系统简化 GPIO 驱动开发](./doc/15.pinctrl子系统.md)
 15. [并发与竞争](./doc/16.并发与竞争.md)
 16. [linux线程操作.md](./doc/17.linux线程操作.md)
 17. [进程及socket的学习](./doc/18.进程的学习.md)
